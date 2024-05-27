@@ -1,0 +1,10 @@
+*.sol linguist-language=Solidity
+
+# Set the default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly set the line endings for certain file types
+*.sol text eol=lf
+*.js text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf

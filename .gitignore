@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Compiled contract artifacts
+build/
+
+# Truffle configuration files
+.truffle/
+.truffle-config.js
+
+# Environment variables
+.env
+
+# Mac OS X temporary files
+.DS_Store
+
+# Windows temporary files
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Compiled files
+*.class
+*.pyc
+*.o
+*.out
+
+# Ethereum keys
+*.keys
+
+# Other sensitive files
+*.secret
